@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Krishnauprit18
 - 👀 I’m interested in Learning new technologies specially related to AI/ML
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Krishnauprit18/Krishnauprit18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
